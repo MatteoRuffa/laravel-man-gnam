@@ -97,3 +97,40 @@ php artisan make:controller NomeController
 # creo le views relative
 
 ```
+
+## Descrizione man-gnam
+```bash
+#introduzione
+creazione di un e-commerce che vende prodotti alimentari etnici.
+mostra prodotti hight-light
+
+# prodotti
+i prodotti hanno le seguenti caratteristiche:
+
+    PK UniquelD: Un identificatore univoco per ogni prodotto.
+    nome string (100): Il nome del prodotto.
+    immagine string (255): Un URL che punta all immagine del prodotto.
+    prezzo float (5,2): Il prezzo del prodotto.
+    descrizione_prodotto text: Una descrizione del prodotto.
+    peso float (5,2): Il peso del prodotto in grammi.
+    scadenza data: La data di scadenza del prodotto.
+    nazionalità string (100): La nazionalità del prodotto.
+    categoria (bevande, dolci, alcolici..) strina (100): La categoria del prodotto.
+    quantità int unsigned: La quantità di prodotto nel packaging.
+    marca string (100): La marca del prodotto.
+    packaging string (100): Il tipo di imballaggio del prodotto.
+    ingredienti string (100): Gli ingredienti del prodotto.
+    tipo (vegano, celiaco): Il tipo di prodotto (vegano, celiaco, ecc.).
+
+    <img src="/img/draw.io.png" alt="draw.io">
+
+# pagine sito
+le pagine del sito sono le seguenti:
+    -homepage (presenterà navbar, contenuto introduttivo, jumbotron, corousel nuovi arrivi)
+    -prodotti
+    -prodotto
+    -carello
+    -contatti/abouts
+    
+
+```
