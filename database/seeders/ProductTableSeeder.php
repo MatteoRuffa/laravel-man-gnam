@@ -18,7 +18,7 @@ class ProductTableSeeder extends Seeder
     {
         $path = __DIR__ . '/products.csv';
         $data = Help::getCsvData($path);
-        // dd($data);
+        //  dd($data);
         foreach ($data as $index => $product) {
             if ($index !== 0) {
                 $new_product = new Product();
