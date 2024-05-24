@@ -1,0 +1,21 @@
+name,image,description,price,weight,expiration_date,country,category,quantity,brand,packaging,ingredients,type
+Sushi Nori,sushi_nori.jpg,Alghe per sushi di alta qualità,5.39,0.05,2024-12-31,Giappone,Alghe,100,Yamamotoyama,Confezione da 10 fogli,"Alghe nori, sale",Secco
+Wasabi in Polvere,wasabi_powder.jpg,Wasabi in polvere per sushi e sashimi,6.39,0.10,2023-10-15,Giappone,Condimenti,50,S&B,Barattolo,"Rafano, senape, coloranti",Polvere
+Tacos,tacos.jpg,Confezione di tacos croccanti,3.50,0.25,2023-07-20,Messico,Pane,200,Old El Paso,Confezione da 12,"Farina di mais, acqua, sale",Secco
+Salsa di Soia,soy_sauce.jpg,Salsa di soia tradizionale giapponese,3.15,0.50,2024-05-05,Giappone,Condimenti,150,Kikkoman,Bottiglia di vetro,"Soia, grano, sale, acqua",Liquido
+Riso Jasmine,jasmine_rice.jpg,"Riso Jasmine profumato, ideale per piatti asiatici",7.39,1.00,2025-01-01,Thailandia,Cereali,300,Royal Umbrella,Sacchetto,Riso jasmine,Secco
+Pasta di Curry Rosso,red_curry_paste.jpg,Pasta di curry rosso piccante,4.25,0.20,2024-03-10,Thailandia,Spezie,100,Mae Ploy,Barattolo,"Peperoncini, aglio, scalogno, sale",Pasta
+Kebab di Manzo,beef_kebab.jpg,"Kebab di manzo speziato, pronto da cuocere",10.39,1.15,2023-06-15,Turchia,Carne,75,Durum,Confezione sottovuoto,"Manzo, spezie, sale",Fresco
+Pane Pita,pita_bread.jpg,Pane pita morbido e fresco,3.39,0.40,2023-05-30,Grecia,Pane,180,Papa Pita,Sacchetto,"Farina di grano, acqua, lievito, sale",Fresco
+Hummus,hummus.jpg,Crema di ceci con tahina e limone,4.15,0.25,2023-04-01,Libano,Salse,120,Sabra,Vasetto,"Ceci, tahina, limone, aglio, sale",Crema
+Miso Bianco,white_miso.jpg,"Pasta di miso bianco, leggera e delicata",4.50,0.30,2023-11-25,Giappone,Condimenti,60,Hikari,Vasetto,"Soia, riso, sale",Pasta
+Kimchi,kimchi.jpg,Kimchi tradizionale coreano piccante,8.39,0.50,2023-09-01,Corea del Sud,Verdure fermentate,80,Jongga,Barattolo,"Cavolo, peperoncino, aglio, zenzero, sale",Fermentato
+Zenzero in Salamoia,pickled_ginger.jpg,Zenzero in salamoia per sushi,3.25,0.15,2023-08-10,Giappone,Verdure fermentate,140,Sushi Ginger,Barattolo,"Zenzero, aceto, zucchero, sale",Fermentato
+Couscous,couscous.jpg,"Couscous di grano duro, pronto in 5 minuti",2.49,0.50,2024-02-15,Marocco,Cereali,200,Al'Fez,Sacchetto,Semola di grano duro,Secco
+Chutney di Mango,mango_chutney.jpg,Chutney di mango dolce-piccante,4.15,0.35,2024-01-01,India,Salse,90,Patak's,Barattolo,"Mango, zucchero, aceto, spezie",Crema
+Tofu,tofu.jpg,"Tofu fresco, alto contenuto proteico",3.39,0.40,2023-06-20,Cina,Prodotti a base di soia,120,Mori-Nu,Confezione sottovuoto,"Soia, acqua, coagulante",Fresco
+Fagioli Neri,black_beans.jpg,"Fagioli neri secchi, ideali per la cucina messicana",2.39,0.50,2025-03-15,Messico,Legumi,300,La Costeña,Sacchetto,Fagioli neri,Secco
+Tè Verde Matcha,matcha_tea.jpg,Tè verde matcha in polvere,13.39,0.05,2023-12-31,Giappone,Bevande,50,Ito En,Barattolo,Tè verde matcha,Polvere
+Pad Thai Noodles,pad_thai_noodles.jpg,Noodles di riso per Pad Thai,4.39,0.45,2024-08-20,Thailandia,Pasta,160,Thai Kitchen,Sacchetto,"Riso, acqua",Secco
+Formaggio Halloumi,halloumi.jpg,"Formaggio Halloumi cipriota, ottimo alla griglia",6.50,0.40,2023-07-10,Cipro,Formaggi,100,Alambra,Confezione sottovuoto,"Latte di pecora, latte di capra, sale",Fresco
+Tamari Senza Glutine,tamari.jpg,Salsa di soia Tamari senza glutine,4.50,0.50,2023-11-05,Giappone,Condimenti,90,San-J,Bottiglia di vetro,"Soia, acqua, sale",Liquido
