@@ -19,13 +19,13 @@ class ProductTableSeeder extends Seeder
         $csvFile = database_path('seeders/products.csv');
         
         $products = array_map('str_getcsv', file($csvFile));
-        dd($products);
+        //dd($products);
 
         foreach ($products as $product) {
             DB::table('product')->insert([
-                $path = __DIR__ . '/products.csv';
-                $data = Help::getCsvData($path);
-                // dd($data);
+                $path = __DIR__ . '/products.csv',
+                $data = Help::getCsvData($path),
+                //dd($data),
                 foreach ($data as $index => $product) {
                     if ($index !== 0) {
                         $new_product = new Product();
@@ -44,7 +44,6 @@ class ProductTableSeeder extends Seeder
                         $new_product->type = $product[13];
                         $new_product->save();
                     }
-        
                 }
             ]);
         }
