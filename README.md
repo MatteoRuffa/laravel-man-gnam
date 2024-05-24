@@ -122,7 +122,7 @@ i prodotti hanno le seguenti caratteristiche:
     ingredienti string (100): Gli ingredienti del prodotto.
     tipo (vegano, celiaco): Il tipo di prodotto (vegano, celiaco, ecc.).
 
-    <img src="/img/draw.io.png" alt="draw.io">
+ ```   <img src="/img/draw.io.png" alt="draw.io"> ```bash
 
 # pagine sito
 le pagine del sito sono le seguenti:
