@@ -122,12 +122,12 @@ i prodotti hanno le seguenti caratteristiche:
     ingredienti string (100): Gli ingredienti del prodotto.
     tipo (vegano, celiaco): Il tipo di prodotto (vegano, celiaco, ecc.).
 
- ```   <img src="/img/draw.io.png" alt="draw.io"> ```bash
+ ![draw.io](My Computer/public/draw.io.png) 
 
 # pagine sito
 le pagine del sito sono le seguenti:
     -homepage (presenterà navbar, contenuto introduttivo, jumbotron, corousel nuovi arrivi)
-    -prodotti
+    -prodotti 
     -prodotto
     -carello
     -contatti/abouts
